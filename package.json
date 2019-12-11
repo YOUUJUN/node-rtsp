@@ -1,5 +1,5 @@
 {
-  "name": "learn_git_koa",
+  "name": "koa-rtsp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -20,6 +20,7 @@
     "koa-static": "^5.0.0",
     "koa-views": "^6.2.0",
     "koa2-history-api-fallback": "^0.1.0",
+    "node-rtsp-stream": "^0.0.8",
     "pm2": "^4.2.0"
   },
   "devDependencies": {
